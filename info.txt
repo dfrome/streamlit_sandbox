@@ -1,0 +1,2 @@
+fichiers csv de titanic kaggle: https://www.kaggle.com/competitions/titanic/data
+cours DST: https://train.learn.datascientest.com/notebooks/661/2315
