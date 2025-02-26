@@ -71,9 +71,9 @@ if page == pages[1] :
     if st.checkbox("supprimer les NaN, bon marche pas top"):
         df = df.dropna()  # Supprimer les lignes avec des valeurs manquantes
 
-    fig, ax = plt.subplots()
-    sns.heatmap(df.corr(), ax=ax)
-    st.write(fig)
+    #fig, ax = plt.subplots()
+    #sns.heatmap(df.corr(), ax=ax)
+    #st.write(fig)
 
 if page == pages[2] : 
     st.write("### Modélisation")
